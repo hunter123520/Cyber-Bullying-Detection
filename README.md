@@ -16,7 +16,7 @@ This repository contains the Jupyter Notebook implementation of a novel approach
 
 2. **Install dependencies:**
  ```bash
-    pip install -r requirements.txt```
+    pip install -r requirements.txt
 
 3. **Run the notebook:**
   Open Cyberbullying_Detection.ipynb in a Jupyter Notebook environment.
