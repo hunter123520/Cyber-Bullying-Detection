@@ -21,4 +21,4 @@ This repository contains the Jupyter Notebook implementation of a novel approach
 ```
 
 3. **Run the notebook:**
-  Open Cyberbullying_Detection.ipynb in a Jupyter Notebook environment.
+  Open Cyber_Bullying.ipynb in a Jupyter Notebook environment.
